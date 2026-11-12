@@ -7,6 +7,8 @@ sidebar, tab bar and status bar.
 Herdr cannot change how terminals draw text, so there are no flicker, glow or
 scanline effects, only the colors.
 
+![herdr-amber-theme](docs/herdr-amber-theme.png)
+
 ## Install
 
 Quick way:
